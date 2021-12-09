@@ -1,0 +1,10 @@
+^D:\SEMESTER 7 (2021 2022)\TUGAS UNITTESTING\CMAKELISTS.TXT
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" "-SD:/SEMESTER 7 (2021 2022)/Tugas Unittesting" "-BD:/SEMESTER 7 (2021 2022)/Tugas Unittesting/build" --check-stamp-file "D:/SEMESTER 7 (2021 2022)/Tugas Unittesting/build/CMakeFiles/generate.stamp"
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

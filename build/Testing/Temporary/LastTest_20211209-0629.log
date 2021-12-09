@@ -1,0 +1,44 @@
+Start testing: Dec 09 13:50 SE Asia Standard Time
+----------------------------------------------------------
+1/1 Testing: UnittestingTests
+1/1 Test: UnittestingTests
+Command: "D:/SEMESTER 7 (2021 2022)/Tugas Unittesting/build/test/Debug/UnittestingTests.exe"
+Directory: D:/SEMESTER 7 (2021 2022)/Tugas Unittesting/build/test
+"UnittestingTests" start time: Dec 09 13:50 SE Asia Standard Time
+Output:
+----------------------------------------------------------
+Running main() from D:\SEMESTER 7 (2021 2022)\Tugas Unittesting\googletest\googletest\src\gtest_main.cc
+[==========] Running 4 tests from 4 test suites.
+[----------] Global test environment set-up.
+[----------] 1 test from Unittesting_Test
+[ RUN      ] Unittesting_Test.abs
+[       OK ] Unittesting_Test.abs (0 ms)
+[----------] 1 test from Unittesting_Test (0 ms total)
+
+[----------] 1 test from Unittesting_Kuad_Test
+[ RUN      ] Unittesting_Kuad_Test.kuadrat
+[       OK ] Unittesting_Kuad_Test.kuadrat (0 ms)
+[----------] 1 test from Unittesting_Kuad_Test (0 ms total)
+
+[----------] 1 test from Unittesting_Fibbo_Test
+[ RUN      ] Unittesting_Fibbo_Test.fibbo
+[       OK ] Unittesting_Fibbo_Test.fibbo (0 ms)
+[----------] 1 test from Unittesting_Fibbo_Test (0 ms total)
+
+[----------] 1 test from Unittesting_Max_Test
+[ RUN      ] Unittesting_Max_Test.max
+[       OK ] Unittesting_Max_Test.max (0 ms)
+[----------] 1 test from Unittesting_Max_Test (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 4 tests from 4 test suites ran. (2 ms total)
+[  PASSED  ] 4 tests.
+<end of output>
+Test time =   0.19 sec
+----------------------------------------------------------
+Test Passed.
+"UnittestingTests" end time: Dec 09 13:50 SE Asia Standard Time
+"UnittestingTests" time elapsed: 00:00:00
+----------------------------------------------------------
+
+End testing: Dec 09 13:50 SE Asia Standard Time
