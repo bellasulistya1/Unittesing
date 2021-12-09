@@ -1,10 +1,10 @@
-Start testing: Dec 09 13:50 SE Asia Standard Time
+Start testing: Dec 09 13:57 SE Asia Standard Time
 ----------------------------------------------------------
 1/1 Testing: UnittestingTests
 1/1 Test: UnittestingTests
 Command: "D:/SEMESTER 7 (2021 2022)/Tugas Unittesting/build/test/Debug/UnittestingTests.exe"
 Directory: D:/SEMESTER 7 (2021 2022)/Tugas Unittesting/build/test
-"UnittestingTests" start time: Dec 09 13:50 SE Asia Standard Time
+"UnittestingTests" start time: Dec 09 13:57 SE Asia Standard Time
 Output:
 ----------------------------------------------------------
 Running main() from D:\SEMESTER 7 (2021 2022)\Tugas Unittesting\googletest\googletest\src\gtest_main.cc
@@ -34,11 +34,11 @@ Running main() from D:\SEMESTER 7 (2021 2022)\Tugas Unittesting\googletest\googl
 [==========] 4 tests from 4 test suites ran. (2 ms total)
 [  PASSED  ] 4 tests.
 <end of output>
-Test time =   0.19 sec
+Test time =   0.15 sec
 ----------------------------------------------------------
 Test Passed.
-"UnittestingTests" end time: Dec 09 13:50 SE Asia Standard Time
+"UnittestingTests" end time: Dec 09 13:57 SE Asia Standard Time
 "UnittestingTests" time elapsed: 00:00:00
 ----------------------------------------------------------
 
-End testing: Dec 09 13:50 SE Asia Standard Time
+End testing: Dec 09 13:57 SE Asia Standard Time
